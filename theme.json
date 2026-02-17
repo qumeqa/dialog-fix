@@ -1,6 +1,6 @@
 {
     "id": "dialog-fix",
-    "homepage": "https://github.com/qumeqa/nova",
+    "homepage": "https://github.com/qumeqa/dialog-fix",
     "author": "qumeqa",
     "name": "Dialog Fix",
     "description": "Fix dialog colors",
@@ -10,8 +10,8 @@
     "style": {
         "chrome": "userChrome.css"
     },
-    "readme": "https://raw.githubusercontent.com/qumeqa/nova/refs/heads/main/README.md",
-    "image": "https://raw.githubusercontent.com/qumeqa/nova/refs/heads/main/cover.png",
+    "readme": "https://raw.githubusercontent.com/qumeqa/dialog-fix/refs/heads/main/README.md",
+    "image": "https://raw.githubusercontent.com/qumeqa/dialog-fix/refs/heads/main/cover.png",
     "tags": [
         "dialog",
         "fix"
